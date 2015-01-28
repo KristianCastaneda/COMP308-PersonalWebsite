@@ -59,6 +59,11 @@
   <ItemGroup>
     <Content Include="about.html" />
     <Content Include="assets\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="assets\images\app-dev.jpg" />
+    <Content Include="assets\images\database-image.jpg" />
+    <Content Include="assets\images\gaming.jpg" />
+    <Content Include="assets\images\software-dev.jpg" />
+    <Content Include="assets\images\web-design.jpg" />
     <Content Include="contact.html" />
     <Content Include="previousprojects\229Assignment02\Assignment02.sln" />
     <Content Include="previousprojects\229Assignment02\Assignment2.htm" />
